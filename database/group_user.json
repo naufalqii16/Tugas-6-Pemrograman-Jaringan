@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "username": "andika",
+            "groupname": "grup-jarkom",
+            "realm_id": "c8adceb6-b41e-47e2-818a-a38c3451c9a0"
+        },
+        {
+            "username": "naufal",
+            "groupname": "grup-jarkom",
+            "realm_id": "c8adceb6-b41e-47e2-818a-a38c3451c9a0"
+        },
+        {
+            "username": "naufal",
+            "groupname": "Belajar",
+            "realm_id": "c8adceb6-b41e-47e2-818a-a38c3451c9a0"
+        },
+        {
+            "username": "akmal",
+            "groupname": "grup-jarkom",
+            "realm_id": "2d57c32a-3db9-4b3a-9e90-564e6c67a0bc"
+        },
+        {
+            "username": "alex",
+            "groupname": "grup-jarkom",
+            "realm_id": "c8adceb6-b41e-47e2-818a-a38c3451c9a0"
+        },
+        {
+            "username": "alex",
+            "groupname": "Belajar",
+            "realm_id": "c8adceb6-b41e-47e2-818a-a38c3451c9a0"
+        },
+        {
+            "username": "user1",
+            "groupname": "inigrupdemo",
+            "realm_id": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8"
+        },
+        {
+            "username": "user2",
+            "groupname": "inigrupdemo",
+            "realm_id": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012"
+        }
+    ]
+}

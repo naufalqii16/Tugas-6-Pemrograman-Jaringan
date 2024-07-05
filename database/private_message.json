@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "alex",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "aku",
+            "created_at": "2024-06-17 14:39:48.390649"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "alex",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "halo namaku andika",
+            "created_at": "2024-06-17 14:42:48.260592"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "naufal",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "halo aku andika",
+            "created_at": "2024-06-24 20:18:36.009890"
+        },
+        {
+            "sender": "akmal",
+            "sender_realm": "4e98deb7-0a91-4a5f-943e-b71421920f7d",
+            "receiver": "naufal",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "halo aku andika",
+            "created_at": "2024-07-01 01:03:41.132233"
+        },
+        {
+            "sender": "naufal",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "test halo halo",
+            "created_at": "2024-07-01 12:26:18.124618"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "naufal",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "Assalamualaikum wr wb halo",
+            "created_at": "2024-07-01 14:55:55.765160"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "naufal",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "test haloooooo",
+            "created_at": "2024-07-01 15:25:29.238364"
+        },
+        {
+            "sender": "sutedjo",
+            "sender_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "receiver": "naufal",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "wanjay masooook",
+            "created_at": "2024-07-02 00:26:25.615021"
+        },
+        {
+            "sender": "sutedjo",
+            "sender_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "test",
+            "created_at": "2024-07-02 00:52:25.535150"
+        },
+        {
+            "sender": "sutedjo",
+            "sender_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "ayo jumatan broo",
+            "created_at": "2024-07-02 00:53:06.198283"
+        },
+        {
+            "sender": "sutedjo",
+            "sender_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "Hallooo dunia final",
+            "created_at": "2024-07-02 00:53:48.598895"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "sutedjo",
+            "receiver_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "message": "lets go jumatan",
+            "created_at": "2024-07-02 00:54:31.710055"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "sutedjo",
+            "receiver_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "message": "djoooooooo tangi brooooo",
+            "created_at": "2024-07-02 01:00:50.238371"
+        },
+        {
+            "sender": "sutedjo",
+            "sender_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "weyy apa bro",
+            "created_at": "2024-07-02 01:05:10.082392"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "sutedjo",
+            "receiver_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "message": "test",
+            "created_at": "2024-07-02 01:14:07.927162"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "alex",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "test",
+            "created_at": "2024-07-02 10:45:51.924609"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "alex",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "assalamualaikum",
+            "created_at": "2024-07-02 11:00:50.224576"
+        },
+        {
+            "sender": "alex",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "waalaikum sayang",
+            "created_at": "2024-07-02 11:01:11.562439"
+        },
+        {
+            "sender": "alex",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "sutedjo",
+            "receiver_realm": "bbc5af77-386e-4737-959c-53096559af6d",
+            "message": "tes",
+            "created_at": "2024-07-02 11:21:18.464140"
+        },
+        {
+            "sender": "andika",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "akmal",
+            "receiver_realm": "2d57c32a-3db9-4b3a-9e90-564e6c67a0bc",
+            "message": "halo akmal",
+            "created_at": "2024-07-02 11:38:36.856345"
+        },
+        {
+            "sender": "akmal",
+            "sender_realm": "2d57c32a-3db9-4b3a-9e90-564e6c67a0bc",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "Hiiii",
+            "created_at": "2024-07-02 11:38:57.011821"
+        },
+        {
+            "sender": "alex",
+            "sender_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "receiver": "andika",
+            "receiver_realm": "c8adceb6-b41e-47e2-818a-a38c3451c9a0",
+            "message": "halo andika dari alex",
+            "created_at": "2024-07-02 11:39:05.312719"
+        },
+        {
+            "sender": "user2",
+            "sender_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "receiver": "user1",
+            "receiver_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "message": "hello, aku baru bikin akun",
+            "created_at": "2024-07-04 23:24:41.694564"
+        },
+        {
+            "sender": "user1",
+            "sender_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "receiver": "user1",
+            "receiver_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "message": "helloo, aku baru bikin akun juga nih",
+            "created_at": "2024-07-04 23:25:02.994756"
+        },
+        {
+            "sender": "user1",
+            "sender_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "receiver": "user2",
+            "receiver_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "message": "hello aku juga baru bikin akun",
+            "created_at": "2024-07-04 23:25:47.688390"
+        },
+        {
+            "sender": "user1",
+            "sender_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "receiver": "user2",
+            "receiver_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "message": "heloooo, aku baru bikin akun nih",
+            "created_at": "2024-07-04 23:38:54.919507"
+        },
+        {
+            "sender": "user2",
+            "sender_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "receiver": "user1",
+            "receiver_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "message": "helooo, aku juga baru bikin akun, salam kenal",
+            "created_at": "2024-07-04 23:39:19.566591"
+        },
+        {
+            "sender": "user2",
+            "sender_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "receiver": "user1",
+            "receiver_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "message": "testajasih",
+            "created_at": "2024-07-05 00:12:45.565895"
+        },
+        {
+            "sender": "user2",
+            "sender_realm": "e0c07f65-5cd5-4b20-a72a-bc461a6b6012",
+            "receiver": "user1",
+            "receiver_realm": "eb5ca7e1-f54d-4a5d-85d9-9a00d29709e8",
+            "message": "testlagii",
+            "created_at": "2024-07-05 00:13:33.013255"
+        }
+    ]
+}

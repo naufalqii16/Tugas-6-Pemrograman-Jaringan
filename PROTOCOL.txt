@@ -1,0 +1,54 @@
+CHAT PROTOCOL
+TUJUAN: Melakukan chat baik pada sesama realm maupun antar-realm berbeda
+
+ATURAN PROTOKOL:
+- client harus mengirimkan request dalam bentuk string
+- string harus dalam format
+  command {spasi} parameter
+- PARAMETER dapat berkembang menjadi PARAMETER1 spasi PARAMETER2 dan seterusnya
+
+REQUEST YANG DILAYANI:
+informasi umum:
+  * Jika request tidak dikenali akan menghasilkan pesan
+    - status: ERROR
+    - data: Maaf, command tidak benar
+  * Semua result akan diberikan dalam bentuk JSON dan diakhiri
+    dengan character ascii code #13#10#13#10 atau "\r\n\r\n"
+* RESULT:
+- BERHASIL:
+  - status: OK
+  - data: pesan berhasil
+- GAGAL:
+  - status: ERROR
+  - data: pesan kesalahan
+1) register [nama pengguna] [password]
+* TUJUAN: untuk mendaftarkan pengguna ke aplikasi
+* PARAMETER (secara berurutan): 
+    nama pengguna : nama pengguna yang akan didaftarkan ke aplikasi
+    Password : password//sandi yang akan digunakan untuk autentikasi pengguna
+2) auth [nama pengguna] [password]
+* TUJUAN: melakukan autentikasi pengguna untuk masuk ke aplikasi
+* PARAMETER (secara berurutan): 
+    nama pengguna : nama pengguna yang telah terdaftar pada aplikasi
+    Password : password//sandi terdaftar yang digunakan untuk autentikasi pengguna
+3) sendprivate [nama tujuan] [pesan]
+* TUJUAN: mengirim pesan ke pengguna tertentu
+* PARAMETER (secara berurutan): 
+    nama tujuan: nama pengguna yang akan menerima pesan
+    pesan: pesan yang akan dikirimkan
+4) inbox
+* TUJUAN: melihat semua pesan yang dikirim ke pengguna yang sedang terautentikasi (login)
+* PARAMETER (secara berurutan): -
+5) creategroup [nama group]
+* TUJUAN: membuat group untuk melakukan group chat
+* PARAMETER (secara berurutan): 
+    nama group: nama group yang akan didaftarkan
+6) sendgroup [nama group tujuan] [pesan]
+* TUJUAN: mengirim pesan ke group tertentu
+* PARAMETER (secara berurutan): 
+    nama group tujuan: nama group yang akan menerima pesan
+    pesan: pesan yang akan dikirimkan ke group
+7) inboxgroup [nama group tujuan]
+* TUJUAN: melihat semua pesan yang ada pada group tertentu
+* PARAMETER (secara berurutan): 
+    nama group tujuan: nama group yang akan dilihat pesannya
